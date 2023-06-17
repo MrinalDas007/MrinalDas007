@@ -14,10 +14,12 @@
   <h1>
     Hi there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <br />
+    <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Mono&size=25&pause=1000&color=24B612&center=true&vCenter=true&width=500&lines=Exploring+Web+and+App+development.;Love+To+Develop+that+help+people.;Eagar+for+new+Technology.;Security+Enthusiasm." alt="Typing SVG" />
+    </a>
   </h1>
 </div>
-<br />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mono&size=25&pause=1000&color=24B612&center=true&vCenter=true&width=500&lines=Exploring+Webdev.;Love+To+Develop+that+help+people.;Eagar+for+new+Technology.;Security+Enthusiasm." alt="Typing SVG" /></a>
 
 <br />
 
