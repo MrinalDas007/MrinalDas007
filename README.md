@@ -34,7 +34,7 @@
 
 ### ℹ️ Talking about Personal Stuffs:
 
-- 👨‍💻 Portfolio : [MrinalDas007]()
+- 👨‍💻 Portfolio : [MrinalDas007](https://mrinaldas007.github.io/)
 
 - 🎓 Experience Level : 2+ years
 
