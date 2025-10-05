@@ -36,7 +36,7 @@
 
 - 👨‍💻 Portfolio : [MrinalDas007](https://mrinaldas007.github.io/)
 
-- 🎓 Experience Level : 3.5+ years
+- 🎓 Experience Level : 5+ years
 
 - 💻 I’m Currently Watching : Demon Slayer 🚀
 
